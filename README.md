@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🛠 futasan's Dashboard
 
-<!--
-**futasan/futasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+現在のプロジェクトや学習リポジトリの目次です。
 
-Here are some ideas to get you started:
+## 🚀 本番稼働中 (Production)
+- **[prod-hp-kabuto-office](https://github.com/futasan/prod-hp-kabuto-office)**
+  - カブトオフィス株式会社様HP / Vercelデプロイ済み
+  - 数年前の構成のため、定期的な診断が必要
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 学習・参考用 (Reference)
+- **[ref-rails-cursor-sample](https://github.com/futasan/ref-rails-cursor-sample)**
+  - Cursor × Rails の実装サンプル
+  - 個人開発のベースとして活用
+
+## 📦 アーカイブ (Archived)
+- **hope2シリーズ**
+  - [back](https://github.com/futasan/hope2-back) / [rails](https://github.com/futasan/hope2-rails) / [html](https://github.com/futasan/hope2-html) / [front](https://github.com/futasan/hope2-front)
+  - 過去のプロジェクト（読み取り専用）
+
+---
+*「何だかわからないプロジェクト」を増やさないための運用ルール*
+1. 新しく作る際は必ず `lab-` などのプレフィックスをつける。
+2. 開発を中断する際は、READMEに「次回のタスク」を1行追記する。
