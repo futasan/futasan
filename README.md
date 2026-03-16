@@ -4,8 +4,11 @@
 
 ## 🚀 本番稼働中 (Production)
 - **[prod-hp-kabuto-office](https://github.com/futasan/prod-hp-kabuto-office)**
-  - カブトオフィス株式会社様HP / Vercelデプロイ済み
+  - カブトオフィス株式会社のホームページ / Vercelデプロイ済み
   - 数年前の構成のため、定期的な診断が必要
+- **[prod-hp-miki-shokai](https://github.com/futasan/prod-hp-miki-shokai)**
+  - 株式会社三喜商会のホームページ
+  - 将来的には先方のアカウントでソースコードを管理
 
 ## 📚 学習・参考用 (Reference)
 - **[ref-rails-cursor-sample](https://github.com/futasan/ref-rails-cursor-sample)**
