@@ -3,9 +3,19 @@
 現在のプロジェクトや学習リポジトリの目次です。
 
 ## 🚀 取引先 (client)
-- **[client-hp-miki-shokai](https://github.com/futasan/prod-hp-miki-shokai)**
+- **[client-fukkan](https://github.com/futasan/client-fukkan)**
+  - 復刊ドットコムの公式ホームページ
+  - 株式会社復刊ドットコム
+  - さくらインターネット専用サーバのレポジトリよりミラーリング
+
+- **[client-kikans](https://github.com/futasan/client-kikans)**
+  - 季刊エスの公式ホームページ
+  - 株式会社パイインターナショナル
+  - さくらインターネットVPSサーバのレポジトリよりミラーリング
+
+- **[client-hp-miki-shokai](https://github.com/futasan/client-hp-miki-shokai)**
   - 株式会社三喜商会のホームページ
-  - 将来的には先方のアカウントでソースコードを管理
+  - 2026年より制作。継続的にアップデート中。
 
 ## 🚀 自社サイト稼働中 (production)
 - **[prod-hp-kabuto-office](https://github.com/futasan/prod-hp-kabuto-office)**
