@@ -2,13 +2,15 @@
 
 現在のプロジェクトや学習リポジトリの目次です。
 
-## 🚀 本番稼働中 (Production)
+## 🚀 取引先 (client)
+- **[client-hp-miki-shokai](https://github.com/futasan/prod-hp-miki-shokai)**
+  - 株式会社三喜商会のホームページ
+  - 将来的には先方のアカウントでソースコードを管理
+
+## 🚀 自社サイト稼働中 (production)
 - **[prod-hp-kabuto-office](https://github.com/futasan/prod-hp-kabuto-office)**
   - カブトオフィス株式会社のホームページ / Vercelデプロイ済み
   - 数年前の構成のため、定期的な診断が必要
-- **[prod-hp-miki-shokai](https://github.com/futasan/prod-hp-miki-shokai)**
-  - 株式会社三喜商会のホームページ
-  - 将来的には先方のアカウントでソースコードを管理
 
 ## 📚 学習・参考用 (Reference)
 - **[ref-rails-cursor-sample](https://github.com/futasan/ref-rails-cursor-sample)**
